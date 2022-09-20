@@ -11,8 +11,6 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --cor-primaria: #e21;
-    --cor-primaria-escura: #900;
     --fundo-1: #000;
     --fundo-2: #222;
     --texto: #fff;
@@ -20,9 +18,6 @@
     --onda: url("/img/onda-escura.svg");
   }
 
-  body {
-    color: var(--texto);
-  }
 }
 
 body {
